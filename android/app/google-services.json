@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966449037261",
+    "project_id": "flash-rent-07",
+    "storage_bucket": "flash-rent-07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966449037261:android:fb1cc6eb8305d165ac0e84",
+        "android_client_info": {
+          "package_name": "com.example.flash_rent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQyjr6tfCZEz5_-l7cy3inGl5Cupfqojk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966449037261:android:17b7d56c27b5fa60ac0e84",
+        "android_client_info": {
+          "package_name": "com.example.renr_a_car"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQyjr6tfCZEz5_-l7cy3inGl5Cupfqojk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
