@@ -1,4 +1,4 @@
-# flash_rent
+# Flash Rent
 
 Car Rental App created with Flutter and Firebase.
 <center>
