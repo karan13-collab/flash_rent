@@ -1,6 +1,6 @@
 # Flash Rent
 
-Car Rental App created with Flutter and Firebase.
+Car Rental App created with Flutter and Firebase. Front-end created with flutter, and cars' information saved as non-relational database collections in Google Firebase.
 <center>
 
 # Onboarding Page
